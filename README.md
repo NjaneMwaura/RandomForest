@@ -1,1 +1,1 @@
-# RandomForest
+This project demonstrates how to use a Random Forest Classifier to predict product labels based on various features. The model is trained on historical product data and can be used to predict the category or label of new, unseen products.
